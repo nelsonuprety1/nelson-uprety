@@ -1,4 +1,3 @@
-# nelson-uprety
 <h2>About Me</h2>
             <p>
                 Hi there 👋! My name is Nelson Uprety. I'm a Frontend Developer based in London, with a passion for
